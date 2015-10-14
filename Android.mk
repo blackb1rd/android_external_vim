@@ -38,6 +38,7 @@ LOCAL_SRC_FILES := \
 	blowfish.c \
 	buffer.c \
 	charset.c \
+	crypt.c \
 	diff.c \
 	digraph.c \
 	edit.c \
