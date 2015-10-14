@@ -39,6 +39,7 @@ LOCAL_SRC_FILES := \
 	buffer.c \
 	charset.c \
 	crypt.c \
+	crypt_zip.c \
 	diff.c \
 	digraph.c \
 	edit.c \
